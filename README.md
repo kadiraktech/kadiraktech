@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  I design and build production-level backend systems, AI-driven workflows, and data-driven architectures focused on reliability, clarity, and real-world impact.
+  I build production-grade AI systems that turn unstructured data, backend workflows, and real-world problems into reliable software.
+</p>
+
+<p align="center">
+  <strong>Always more to build.</strong>
 </p>
 
 <p align="center">
@@ -40,6 +44,13 @@ engineering_style:
   - Practical AI implementation
   - Scalable & secure systems
 ```
+
+## Selected Engineering Highlights
+
+- Designed production-like AI systems combining OCR, vector search, and LLM reasoning
+- Built structured pipelines for unstructured data and technical incident analysis
+- Developed backend-first architectures for scalable, data-driven applications
+- Focused on reliability, clarity, secure execution, and real-world usability
 
 ## Currently Building
 
@@ -110,10 +121,14 @@ engineering_style:
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadiraktech&hide_border=true" alt="Kadir Ak GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadiraktech&theme=minimal&hide_border=true" alt="Kadir Ak GitHub activity graph" />
 </p>
 
-## Looking for high-impact engineering roles.
+## Looking for high-impact engineering roles
+
+<p align="center">
+  Focused on building systems that scale, reason, and deliver real-world value.
+</p>
 
 <p align="center">
   <a href="https://whitesoft.tech">Website</a> ·
