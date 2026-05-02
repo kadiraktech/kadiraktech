@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  Building production-like AI systems with strong backend foundations, data-driven architectures, and real-world system design.
+  I design and build production-level backend systems, AI-driven workflows, and data-driven architectures focused on reliability, clarity, and real-world impact.
 </p>
 
 <p align="center">
   <a href="https://whitesoft.tech"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/kadiraktech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/kadiraktech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kadir.ak.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/_kadir.ak_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -20,10 +20,9 @@
 ## About Me
 
 ```yaml
-name: Kadir Ak
 role: AI-Focused Software Engineer
 orientation: Backend & System-Oriented Developer
-focus: Production-like AI systems for real-world workflows
+focus: Production-level AI systems, backend engineering, and data-driven architecture
 
 core_areas:
   - AI-driven backend systems
@@ -37,19 +36,26 @@ core_areas:
 engineering_style:
   - System-oriented thinking
   - Backend-first architecture
-  - Full-stack product awareness
+  - Production-grade mindset
   - Practical AI implementation
-  - Secure and scalable execution
+  - Scalable & secure systems
 ```
+
+## Currently Building
+
+- AI-powered troubleshooting systems
+- RAG-based intelligent pipelines
+- Data-driven backend architectures
+- Real-world production-like systems
 
 ## Featured Projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **TraceMind** | AI-powered troubleshooting platform analyzing production incidents from screenshots using OCR, vector search, and LLM reasoning. | .NET, FastAPI, OCR, pgvector, Ollama |
-| **DataSage** | Enterprise-grade NL-to-SQL analytics platform with deterministic intent mapping, secure execution, and real-time visualization. | .NET, Angular, FastAPI, PostgreSQL |
-| **Hikmet-Multilanguage** | Multilingual RAG-based AI assistant supporting 32+ languages with source-grounded responses. | Python, RAG, Qdrant, React |
-| **2M-MailMarketing** | Distributed email automation system with queue-based architecture and real-time operations. | .NET, Angular, PostgreSQL, Docker |
+| **TraceMind** | Production-oriented troubleshooting platform designed around OCR ingestion, vector retrieval, and LLM reasoning to transform incident screenshots into structured diagnostic insight. | .NET, FastAPI, OCR, pgvector, Ollama |
+| **DataSage** | NL-to-SQL analytics system with deterministic intent mapping, guarded query execution, and real-time visualization for reliable data exploration workflows. | .NET, Angular, FastAPI, PostgreSQL |
+| **Hikmet-Multilanguage** | Multilingual RAG assistant architecture built for source-grounded responses, vector-based retrieval, and consistent reasoning across 32+ languages. | Python, RAG, Qdrant, React |
+| **2M-MailMarketing** | Distributed email automation platform structured with queue-based processing, operational visibility, and scalable backend workflows. | .NET, Angular, PostgreSQL, Docker |
 
 ## Tech Stack
 
@@ -97,26 +103,25 @@ engineering_style:
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kadiraktech&show_icons=true&hide_border=true&theme=github_dark" alt="Kadir Ak GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadiraktech&layout=compact&hide_border=true&theme=github_dark" alt="Kadir Ak top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kadiraktech&show_icons=true&hide_border=true" alt="Kadir Ak GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadiraktech&layout=compact&hide_border=true" alt="Kadir Ak top languages" />
 </p>
 
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadiraktech&theme=github-dark&hide_border=true" alt="Kadir Ak GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadiraktech&hide_border=true" alt="Kadir Ak GitHub activity graph" />
 </p>
 
-## Let's Connect
+## Looking for high-impact engineering roles.
 
 <p align="center">
   <a href="https://whitesoft.tech">Website</a> ·
-  <a href="https://www.linkedin.com/in/kadiraktech">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/kadiraktech">LinkedIn</a> ·
   <a href="mailto:kadir.ak.tech@gmail.com">Email</a> ·
-  <a href="https://www.instagram.com/_kadir.ak_/">Instagram</a> ·
-  <a href="https://github.com/kadiraktech">GitHub</a>
+  <a href="https://www.instagram.com/_kadir.ak_/">Instagram</a>
 </p>
 
 <p align="center">
-  <em>"Building intelligent systems that turn data into decisions."</em>
+  <strong>Always more to build.</strong>
 </p>
