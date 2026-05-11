@@ -1,4 +1,4 @@
-<h1 align="center">Kadir Ak</h1>
+<h1 align="center">Kadir AK</h1>
 
 <p align="center">
   <strong>AI-Focused Software Engineer | Backend &amp; System-Oriented Developer</strong>
